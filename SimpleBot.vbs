@@ -1,5 +1,5 @@
 'script to create a simple bot
-'script and other dependecy files are placed in C:\xampp\htdocs\php\vb_scripts
+'script and other dependecy files are placed in (Drive):\xampp\htdocs\php\vb_scripts
 
 Dim l,rand
 l=1
