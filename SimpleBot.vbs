@@ -7,7 +7,7 @@ Do While l<3
 
   'Open Internet Explorer
   Set obj = CreateObject("InternetExplorer.Application")
-  obj.Naviagte("http://localhost/php/vb_scripts/Form.html")
+  obj.Navigate("http://localhost/php/vb_scripts/Form.html")
   obj.Visible = True
 
   WScript.Sleep 1000
