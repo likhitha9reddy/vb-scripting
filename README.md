@@ -6,7 +6,7 @@ Branch containing some basic VB Scripts that I have tested. The codes are taken 
 ` https://github.com/likhitha9reddy/vb-scripting/tree/basic-vb-scripts `
 
 ### Simple Bot Script
-Branch containing a simple bot using VB Scripting, HTML and PHP. The script file creates an application object and randomly inputs emails (random_numbers@something.com) with same password. This action repeats thrice. A html form was created with email and password as inputs along with a submit button. Upon clicking the submit button, a php file should echo the user input.
+Branch containing a simple bot using VB Scripting, HTML and PHP. The script file creates an application object and randomly inputs emails (random_numbers @ something.com) with same password. This action repeats thrice. A html form was created with email and password as inputs along with a submit button. Upon clicking the submit button, a php file should echo the user input.
 
 Following tips might be helpful in running the script and minimizing the errors:
 1. The script was tested in a Windows 10 virtual environment with XAMPP setup. 
